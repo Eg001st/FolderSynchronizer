@@ -3,7 +3,7 @@
  **FolderSynchronizer**  
  *Test assignment for Junior Developer in QA position*  
  Company: **Veeam Software**  
- Author: Yehor Kolohoida (yehor.kolohoida@gmail.com)
+ Author: Yehor Kolohoida (yehor.kolohoida@gmail.com)  
  Copyright © 2025
 
 ---
@@ -23,7 +23,6 @@ It emphasizes good software design, logging, and edge-case handling.
 - Recursive folder and file comparison using hashing (MD5 or SHA256)
 - Logging with timestamped messages to both console and `.log` files
 - Support for command-line arguments (source, replica, interval, log folder)
-- Unit tests for key components
 - Clear structure and extensibility
 
 ---
